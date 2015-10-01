@@ -1,0 +1,15 @@
+nl\ead\webservice\dao\CalculationDao.class
+nl\ead\webservice\package-info.class
+nl\ead\webservice\dao\ICalculationDao.class
+nl\ead\webservice\CalculateResult.class
+nl\ead\webservice\CalculateResponse.class
+nl\ead\webservice\CalculateOperation.class
+nl\ead\webservice\ObjectFactory.class
+nl\ead\webservice\services\IMoviePrinter.class
+nl\ead\webservice\dao\TempCalculationDao.class
+nl\ead\webservice\model\Calculation.class
+nl\ead\webservice\services\MoviePrinter.class
+nl\ead\webservice\services\MoviePrinterFactory.class
+nl\ead\webservice\CalculateRequest.class
+nl\ead\webservice\CalculateParameters.class
+nl\ead\webservice\CalculateInput.class
