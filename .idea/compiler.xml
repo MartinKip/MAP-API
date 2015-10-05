@@ -17,16 +17,24 @@
       <profile default="true" name="Default" enabled="false">
         <processorPath useClasspath="true" />
       </profile>
-      <profile default="false" name="Maven default annotation processors profile" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+      <profile default="false" name="Annotation profile for Dare2Date" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="Calculator" />
+        <module name="Dare2Date" />
+      </profile>
+      <profile default="false" name="Annotation profile for Dare2date" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="Dare2date" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Calculator" target="1.5" />
+      <module name="Dare2Date" target="1.7" />
+      <module name="Dare2date" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

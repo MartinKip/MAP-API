@@ -3,11 +3,11 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     
-    <name>Calculator Spring-WS Application</name>
+    <name>Dare2date Spring-WS Application</name>
     <url>http://www.springframework.org/spring-ws</url>
     
-    <groupId>nl.ead.webservice</groupId>
-    <artifactId>Calculator</artifactId>
+    <groupId>nl.dare2date.matching.domain</groupId>
+    <artifactId>Dare2date</artifactId>
     <version>1.0-SNAPSHOT</version>
         
     <packaging>war</packaging>
@@ -20,7 +20,7 @@
     </properties>
 
     <build>
-        <finalName>calculator</finalName>
+        <finalName>dare2date</finalName>
         
         <plugins>
             <plugin>
@@ -53,8 +53,8 @@
                     </execution>
                 </executions>
                 <configuration>
-                    <generatePackage>nl.ead.webservice</generatePackage>
-                    <schemaDirectory>${basedir}/src/main/webapp/calculator</schemaDirectory>
+                    <generatePackage>nl.dare2date.matching.domain</generatePackage>
+                    <schemaDirectory>${basedir}/src/main/webapp/dare2date</schemaDirectory>
                 </configuration>
             </plugin>
         </plugins>
@@ -146,5 +146,12 @@
             <version>3.1.3</version>
         </dependency>
         <!--End dependencies needed for demo-->
+
+        <!-- Twitter4j dependency-->
+        <dependency>
+            <groupId>org.twitter4j</groupId>
+            <artifactId>twitter4j-core</artifactId>
+            <version>[4.0,)</version>
+        </dependency>
     </dependencies>
 </project>

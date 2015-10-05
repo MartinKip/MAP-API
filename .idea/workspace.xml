@@ -1,10 +1,127 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ede2e0ce-7d02-4de8-9220-79f52f852789" name="Default" comment="" />
-    <ignored path="Calculator.iws" />
+    <list default="true" id="a24f0f14-074f-449f-bf04-78709ea48382" name="Default" comment="">
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\.idea\artifacts\Calculator_war.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\.idea\artifacts\Calculator_war_exploded.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\Calculator.iml" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\src\main\webapp\calculator\messages.xsd" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\src\main\webapp\calculator\types.xsd" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator.war" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\classes\META-INF\persistence.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\classes\META-INF\sun-jaxb.episode" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\classes\nl\ead\webservice\CalculateInput.class" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\classes\nl\ead\webservice\CalculateOperation.class" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\classes\nl\ead\webservice\CalculateParameters.class" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\classes\nl\ead\webservice\CalculateRequest.class" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\classes\nl\ead\webservice\CalculateResponse.class" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\classes\nl\ead\webservice\CalculateResult.class" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\classes\nl\ead\webservice\ObjectFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\classes\nl\ead\webservice\dao\CalculationDao.class" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\classes\nl\ead\webservice\dao\ICalculationDao.class" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\classes\nl\ead\webservice\dao\TempCalculationDao.class" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\classes\nl\ead\webservice\model\Calculation.class" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\classes\nl\ead\webservice\package-info.class" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\classes\nl\ead\webservice\services\CalculatorEndpoint.class" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\classes\nl\ead\webservice\services\IMoviePrinter.class" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\classes\nl\ead\webservice\services\MoviePrinter.class" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\classes\nl\ead\webservice\services\MoviePrinterFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\lib\antlr-2.7.7.jar" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\lib\aopalliance-1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\lib\c3p0-0.9.1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\lib\c3p0-0.9.2.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\lib\commons-logging-1.1.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\lib\dom4j-1.6.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\lib\hibernate-c3p0-4.3.7.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\lib\hibernate-commons-annotations-4.0.5.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\lib\hibernate-core-4.3.7.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\lib\hibernate-entitymanager-4.3.7.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\lib\hibernate-jpa-2.1-api-1.0.0.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\lib\jandex-1.1.0.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\lib\javassist-3.18.1-GA.jar" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\lib\jboss-logging-3.1.3.GA.jar" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\lib\jboss-logging-annotations-1.2.0.Beta1.jar" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\lib\jboss-transaction-api_1.2_spec-1.0.0.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\lib\mchange-commons-java-0.2.3.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\lib\mysql-connector-java-5.1.31.jar" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\lib\spring-aop-3.2.4.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\lib\spring-beans-3.2.4.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\lib\spring-context-3.2.4.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\lib\spring-core-3.2.4.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\lib\spring-dao-2.0.8.jar" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\lib\spring-expression-3.2.4.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\lib\spring-jdbc-2.0.8.jar" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\lib\spring-jpa-2.0.8.jar" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\lib\spring-oxm-3.2.4.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\lib\spring-tx-4.0.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\lib\spring-web-3.2.4.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\lib\spring-webmvc-3.2.4.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\lib\spring-ws-core-2.1.4.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\lib\spring-xml-2.1.4.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\lib\stax-api-1.0-2.jar" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\lib\ws-commons-util-1.0.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\lib\wsdl4j-1.6.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\lib\xml-apis-1.0.b2.jar" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\lib\xmlrpc-client-3.1.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\lib\xmlrpc-common-3.1.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\lib\xmlschema-core-2.0.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\spring-ws-servlet.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\WEB-INF\web.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\calculator\messages.xsd" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\calculator\calculator\types.xsd" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\classes\nl\ead\webservice\CalculateInput.class" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\classes\nl\ead\webservice\CalculateOperation.class" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\classes\nl\ead\webservice\CalculateParameters.class" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\classes\nl\ead\webservice\CalculateRequest.class" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\classes\nl\ead\webservice\CalculateResponse.class" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\classes\nl\ead\webservice\CalculateResult.class" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\classes\nl\ead\webservice\ObjectFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\classes\nl\ead\webservice\dao\CalculationDao.class" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\classes\nl\ead\webservice\dao\ICalculationDao.class" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\classes\nl\ead\webservice\dao\TempCalculationDao.class" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\classes\nl\ead\webservice\model\Calculation.class" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\classes\nl\ead\webservice\package-info.class" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\classes\nl\ead\webservice\services\IMoviePrinter.class" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\classes\nl\ead\webservice\services\MatchingEndpoint.class" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\classes\nl\ead\webservice\services\MoviePrinter.class" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\classes\nl\ead\webservice\services\MoviePrinterFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\generated-sources\xjc\nl\ead\webservice\CalculateInput.java" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\generated-sources\xjc\nl\ead\webservice\CalculateOperation.java" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\generated-sources\xjc\nl\ead\webservice\CalculateParameters.java" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\generated-sources\xjc\nl\ead\webservice\CalculateRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\generated-sources\xjc\nl\ead\webservice\CalculateResponse.java" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\generated-sources\xjc\nl\ead\webservice\CalculateResult.java" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\maven-archiver\pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\maven-status\maven-compiler-plugin\testCompile\default-testCompile\createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\maven-status\maven-compiler-plugin\testCompile\default-testCompile\inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\surefire-reports\TEST-nl.ead.webservice.services.CalculatorEndpointTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\surefire-reports\nl.ead.webservice.services.CalculatorEndpointTest.txt" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\test-classes\nl\ead\webservice\services\CalculatorEndpointTest$1.class" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\test-classes\nl\ead\webservice\services\CalculatorEndpointTest$2.class" afterPath="" />
+      <change type="DELETED" beforePath="F:\Documents\Code\MAP-API-WEB\target\test-classes\nl\ead\webservice\services\CalculatorEndpointTest.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/nl/dare2/date/matching/domain/services/CalculatorEndpointTest.java" afterPath="$PROJECT_DIR$/src/test/java/nl/dare2/date/matching/domain/services/CalculatorEndpointTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/nl/dare2date/matching/domain/application/GetTwitterData.java" afterPath="$PROJECT_DIR$/src/main/java/nl/dare2date/matching/domain/application/GetTwitterData.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/nl/dare2date/matching/domain/business/Match.java" afterPath="$PROJECT_DIR$/src/main/java/nl/dare2date/matching/domain/business/Match.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/nl/dare2date/matching/domain/orchestration/Profile.java" afterPath="$PROJECT_DIR$/src/main/java/nl/dare2date/matching/domain/orchestration/Profile.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/nl/dare2date/matching/domain/foundation/TwitterAccess.java" afterPath="$PROJECT_DIR$/src/main/java/nl/dare2date/matching/domain/foundation/TwitterAccess.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-ws-servlet.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-ws-servlet.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="Dare2Date.iws" />
     <ignored path=".idea/workspace.xml" />
-    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/target/calculator/" />
+    <ignored path="$PROJECT_DIR$/target/maven-archiver/" />
+    <ignored path="$PROJECT_DIR$/target/maven-status/" />
+    <ignored path="$PROJECT_DIR$/target/surefire-reports/" />
+    <ignored path="$PROJECT_DIR$/target/tomcat/" />
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,10 +136,33 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="Calculator" />
+    <favorites_list name="Dare2Date" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="MatchingEndpoint.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/nl/dare2date/matching/domain/services/MatchingEndpoint.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5680191">
+              <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -32,8 +172,19 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/nl/ead/webservice/services/CalculatorEndpoint.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/dare2date/matching/domain/business/Match.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/dare2date/matching/domain/foundation/TwitterAccess.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/dare2date/matching/domain/orchestration/Profile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/dare2date/matching/domain/model/MatchInput.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/dare2date/matching/domain/model/ObjectFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/dare2date/matching/domain/application/GetTwitterData.java" />
+        <option value="$PROJECT_DIR$/src/test/java/nl/dare2/date/matching/domain/services/CalculatorEndpointTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-ws-servlet.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/dare2date/matching/domain/services/MatchingEndpoint.java" />
       </list>
     </option>
   </component>
@@ -57,6 +208,31 @@
     <option name="width" value="1938" />
     <option name="height" value="1048" />
   </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android Lint</id>
+          </State>
+          <State>
+            <id>GeneralJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
@@ -64,7 +240,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="1" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -80,43 +256,30 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Calculator" />
+              <option name="myItemId" value="Dare2Date" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Calculator" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MAP-API-WEB" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Calculator" />
+              <option name="myItemId" value="Dare2Date" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="MAP-API-WEB" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Calculator" />
+              <option name="myItemId" value="Dare2Date" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -127,18 +290,10 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Calculator" />
+              <option name="myItemId" value="Dare2Date" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -157,14 +312,36 @@
               <option name="myItemId" value="webapp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="calculator" />
+              <option name="myItemId" value="Dare2Date" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MAP-API-WEB" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dare2date" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Calculator" />
+              <option name="myItemId" value="Dare2Date" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -182,7 +359,7 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Calculator" />
+              <option name="myItemId" value="Dare2Date" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -202,7 +379,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="webservice" />
+              <option name="myItemId" value="domain" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -212,7 +389,7 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Calculator" />
+              <option name="myItemId" value="Dare2Date" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -232,91 +409,26 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="webservice" />
+              <option name="myItemId" value="domain" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../icaase/spring-ws/Calculator" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="recentsLimit" value="5" />
-    <property name="restartRequiresConfirmation" value="true" />
     <property name="FullScreen" value="false" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Tomcat Server.Local Tomcat">
-    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.641" ALTERNATIVE_JRE_ENABLED="false" ALTERNATIVE_JRE_PATH="">
-      <option name="UPDATING_POLICY" value="restart-server" />
-      <deployment />
-      <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="_Calculator" />
-      </server-settings>
-      <predefined_log_file id="Tomcat" enabled="true" />
-      <predefined_log_file id="Tomcat Catalina" enabled="true" />
-      <predefined_log_file id="Tomcat Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="9023" />
-      </RunnerSettings>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <method />
-    </configuration>
+  <component name="RunManager">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -579,76 +691,6 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <configuration default="false" name="Local Tomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.641" ALTERNATIVE_JRE_ENABLED="false" ALTERNATIVE_JRE_PATH="">
-      <option name="UPDATING_POLICY" value="restart-server" />
-      <deployment />
-      <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="Unnamed_Calculator" />
-      </server-settings>
-      <predefined_log_file id="Tomcat" enabled="true" />
-      <predefined_log_file id="Tomcat Catalina" enabled="true" />
-      <predefined_log_file id="Tomcat Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="9023" />
-      </RunnerSettings>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <method />
-    </configuration>
-    <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.Local Tomcat" />
-    </list>
-  </component>
-  <component name="SbtLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
@@ -656,58 +698,51 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ede2e0ce-7d02-4de8-9220-79f52f852789" name="Default" comment="" />
-      <created>1443430816352</created>
+      <changelist id="a24f0f14-074f-449f-bf04-78709ea48382" name="Default" comment="" />
+      <created>1444037175072</created>
       <option name="number" value="Default" />
-      <updated>1443430816352</updated>
-      <workItem from="1443430817686" duration="240000" />
-      <workItem from="1443431061804" duration="1000000" />
-      <workItem from="1443432092479" duration="380000" />
-      <workItem from="1443432501502" duration="37000" />
-      <workItem from="1443432939263" duration="326000" />
-      <workItem from="1443433289502" duration="248000" />
-      <workItem from="1443434476527" duration="676000" />
-      <workItem from="1443694828409" duration="139000" />
-      <workItem from="1443694988251" duration="2267000" />
-      <workItem from="1443704558448" duration="485000" />
+      <updated>1444037175072</updated>
+      <workItem from="1444037176529" duration="16000" />
+      <workItem from="1444037198038" duration="4322000" />
+      <workItem from="1444041541507" duration="174000" />
+      <workItem from="1444049740376" duration="1085000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5798000" />
+    <option name="totallyTimeSpent" value="5597000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328125" sideWeight="0.5021552" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295063" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295063" sideWeight="0.50427806" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3283582" sideWeight="0.49784482" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295063" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2835821" sideWeight="0.49786097" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25561497" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24973261" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295063" sideWeight="0.49572194" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295063" sideWeight="0.49784482" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3295063" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -721,11 +756,6 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <ignored-roots>
-      <path value="$PROJECT_DIR$/../.." />
-    </ignored-roots>
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -735,7 +765,7 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/nl/ead/webservice/services/MatchingEndpoint.java">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -743,171 +773,126 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/nl/ead/webservice/services/MatchingEndpoint.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/nl/dare2date/matching/domain/business/Match.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
-          <folding />
+        <state vertical-scroll-proportion="0.7100239">
+          <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nl/dare2date/matching/domain/model/MatchRequest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MultiMarkdownFxHtmlEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/nl/ead/webservice/services/MatchingEndpoint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
-          <folding />
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/src/main/java/nl/dare2date/matching/domain/model/MatchInput.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="1.0930626">
+          <caret line="43" column="50" selection-start-line="43" selection-start-column="50" selection-end-line="43" selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/nl/ead/webservice/services/MatchingEndpoint.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/nl/dare2date/matching/domain/model/MatchResponse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
-          <folding />
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/src/main/java/nl/dare2date/matching/domain/model/MatchResult.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/nl/ead/webservice/services/MatchingEndpoint.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/nl/dare2date/matching/domain/model/ObjectFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
-          <folding />
+        <state vertical-scroll-proportion="0.76649743">
+          <caret line="70" column="29" selection-start-line="70" selection-start-column="29" selection-end-line="70" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/src/main/java/nl/dare2date/matching/domain/application/GetTwitterData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.65482235">
+          <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/nl/ead/webservice/services/MatchingEndpoint.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/nl/dare2date/matching/domain/orchestration/Profile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
-          <folding />
+        <state vertical-scroll-proportion="0.6040609">
+          <caret line="66" column="31" selection-start-line="66" selection-start-column="31" selection-end-line="66" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/src/main/java/nl/dare2date/matching/domain/foundation/TwitterAccess.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.71912014">
+          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/nl/ead/webservice/services/MatchingEndpoint.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
-          <folding />
+        <state vertical-scroll-proportion="0.4936479">
+          <caret line="16" column="77" selection-start-line="16" selection-start-column="77" selection-end-line="16" selection-end-column="77" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/src/test/java/nl/dare2/date/matching/domain/services/CalculatorEndpointTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/nl/ead/webservice/services/MatchingEndpoint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/nl/ead/webservice/services/MatchingEndpoint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.09255898">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46279493">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.15426497">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/dare2date/messages.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dare2date.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15426497">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.020286396">
+          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-ws-servlet.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4913295">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/calculator/messages.xsd">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.030797102">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/calculator/types.xsd">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4311594">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/nl/ead/webservice/services/MatchingEndpoint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9384058">
-          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.3321234">
+          <caret line="12" column="63" selection-start-line="12" selection-start-column="63" selection-end-line="12" selection-end-column="63" />
           <folding />
         </state>
       </provider>
@@ -920,13 +905,23 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.62355214">
-          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+        <state vertical-scroll-proportion="0.5589942">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
           <folding />
         </state>
       </provider>
       <provider editor-type-id="MultiMarkdownFxHtmlEditor">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nl/dare2date/matching/domain/services/MatchingEndpoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5680191">
+          <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
   </component>
@@ -935,7 +930,7 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>Calculator:war</last-edited>
+          <last-edited>Dare2Date:war</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -948,7 +943,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>JPA</last-edited>
+          <last-edited>Spring</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -971,6 +966,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -982,18 +978,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Calculator</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
+          <last-edited>Spring|Dare2date</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
